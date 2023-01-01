@@ -9,8 +9,3 @@
 Gaying (also known as RO:TX) is an amazing Lua raytracing simulation script for roblox. Softwares like roshade fails to simulate ray-tracing as the software adds imgui layers to your roblox cilent externally. Gaying modifys the Roblox Engine internally unlike roshade and many other software. Our goal, is to make roblox as realistic as possible without doing anything externally. 
 
 
-
-[![gaying]([![alt text](https://github.com/FadifyV2/gaying/main/main/imagead.png?raw=true)))](https://dsc.gg/gaying)
-
-
-
