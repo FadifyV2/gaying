@@ -10,21 +10,7 @@ Gaying (also known as RO:TX) is an amazing Lua raytracing simulation script for 
 
 
 
-### Built With
-
-This section should list software used that gaying is built with:
-* [Rayfield](https://rayfield.dev/en/introduction)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Roblox Engine](https://roblox.com)
-* [Your Brain](https://en.wikipedia.org/wiki/Brain)
-
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [Discord](https://dsc.gg/gaying)
+[![gaying]([https://user-images.githubusercontent.com/77512805/197843157-3485a6e4-7b18-4372-8277-f3a2e7bd0317.png](https://github.com/FadifyV2/gaying/blob/2304583ae67564919a155d288c0cb046a158d539/imagead.png))](https://dsc.gg/gaying)
 
 
 
